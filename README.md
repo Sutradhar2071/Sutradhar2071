@@ -42,10 +42,6 @@
 
 ![Sutradhar2071's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&hide_border=false&count_private=true)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RingkuSutradhar&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 
 
 ---
