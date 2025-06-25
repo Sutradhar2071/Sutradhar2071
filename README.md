@@ -36,6 +36,20 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=typescript,php,lua" />
 
+### 🧠 Top Languages & Tools I Use
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=typescript,php,lua" />
+
+#### 🛠️ Technologies I work with:
+
+- 💻 Frontend: HTML5, CSS3, TailwindCSS, DaisyUI
+- ⚛️ JavaScript, React.js, React Router
+- 🔥 Firebase (Auth, Hosting)
+- 🌐 Backend: Node.js, Express.js, MongoDB
+- 📦 Git, GitHub, REST API
+- 📱 Responsive Web Design, SPA
+
+
 
 ---
 
