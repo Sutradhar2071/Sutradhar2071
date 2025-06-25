@@ -40,6 +40,8 @@
 
 ![Sutradhar2071's Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&hide_border=false&count_private=true)
 
+https://raw.githubusercontent.com/ringku/ringku/master/images/Ringku.svg
+
 
 ---
 
