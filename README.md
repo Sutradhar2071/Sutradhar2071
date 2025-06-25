@@ -38,6 +38,15 @@
 
 ---
 
+
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ringku-sutradhar-8461002aa/)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sutradharringku@gmail.com)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Sutradhar2071's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&hide_border=false&count_private=true)
@@ -65,13 +74,6 @@
 
 ### ⚡ Fun Fact
 > I love learning something new every single day — especially tech that solves real-world problems!
-
----
-
-### 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ringku-sutradhar-8461002aa/)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sutradharringku@gmail.com)
 
 ---
 
