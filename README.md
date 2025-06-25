@@ -5,7 +5,10 @@
 </p>
 
 
-![Uploading image.png…]()
+<p align="center">
+  <img src="https://i.ibb.co/mCP4P7fL/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Profile Banner" width="100%" />
+</p>
+
 
 
 ---
