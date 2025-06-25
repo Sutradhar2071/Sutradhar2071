@@ -8,7 +8,6 @@
 
 ### 🧑‍💻 About Me
 - 🔭 I'm a MERN Stack Developer
-- 🌱 Currently learning: Next.js, TypeScript, and AI/ML
 - 💻 Skilled in: HTML5, CSS3, TailwindCSS, DaisyUI, React.js, Firebase, Express.js, MongoDB
 - 💼 Actively looking for job and freelance opportunities
 - 🚀 Goal: Build my own SaaS product and start a tech startup
@@ -16,11 +15,6 @@
 
 ---
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ringku-sutradhar-8461002aa/)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sutradharringku@gmail.com)
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -46,6 +40,12 @@ https://raw.githubusercontent.com/lowlighter/metrics/refs/heads/examples/metrics
 
 ### ⚡ Fun Fact
 > I love learning new things every day, especially tech that solves real-world problems.
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ringku-sutradhar-8461002aa/)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sutradharringku@gmail.com)
 
 ---
 
