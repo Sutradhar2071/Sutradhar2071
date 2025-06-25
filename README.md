@@ -34,7 +34,7 @@
 
 ![Sutradhar2071's Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&hide_border=false&count_private=true)
 
-https://raw.githubusercontent.com/lowlighter/metrics/refs/heads/examples/metrics.plugin.reactions.svg
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ---
 
