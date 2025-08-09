@@ -43,6 +43,7 @@
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ringku-sutradhar-8461002aa/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white)](https://ringku-sd-codesign.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sutradharringku@gmail.com)
 
 ---
