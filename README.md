@@ -55,7 +55,7 @@
 
 ### 🧠 Top Languages
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&layout=compact&theme=vue-dark&hide=php,python,ruby,java" />
+![Sutradhar2071's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&layout=compact&bg_color=0a0f1e&title_color=63d2aa&text_color=ffffff&icon_color=63d2aa&hide_border=false&border_color=63d2aa33&count_private=true)
 
 
 
