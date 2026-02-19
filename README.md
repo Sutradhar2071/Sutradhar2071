@@ -53,9 +53,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sutradhar2071&theme=react)
 
 
-### 🧠 Top Languages I Use
+### 📊 GitHub Stats
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=typescript,php,lua" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Sutradhar2071&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
 
 
 
