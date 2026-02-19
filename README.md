@@ -48,17 +48,11 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sutradhar2071&theme=react)
-
-
-
----
+### 📊 GitHub Stats
+![Sutradhar2071's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&count_private=true)
 
 ### 🧠 Top Languages I Use
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=typescript,php,lua" />
+![Sutradhar2071's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&theme=vue-dark&show_icons=true&layout=compact)
 
 ---
 
