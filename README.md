@@ -48,9 +48,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-![Sutradhar2071's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sutradhar2071&theme=react&show_icons=true&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sutradhar2071&theme=react)
 
 
 
