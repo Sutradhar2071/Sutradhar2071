@@ -53,9 +53,209 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sutradhar2071&theme=react)
 
 
-### 📊 GitHub Stats
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Top Languages</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Sutradhar2071&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
+  body {
+    background: #0a0f1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .card {
+    background: linear-gradient(135deg, #0d1224 0%, #111827 100%);
+    border: 1px solid rgba(99, 210, 170, 0.2);
+    border-radius: 16px;
+    padding: 28px 32px;
+    width: 420px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 60px rgba(99, 210, 170, 0.07), 0 20px 40px rgba(0,0,0,0.5);
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(99,210,170,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .card::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: -40px;
+    width: 160px; height: 160px;
+    background: radial-gradient(circle, rgba(56,189,248,0.06) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 22px;
+  }
+
+  .header-icon {
+    font-size: 18px;
+  }
+
+  .title {
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #63d2aa;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .username {
+    margin-left: auto;
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    letter-spacing: 0.05em;
+  }
+
+  .progress-track {
+    display: flex;
+    height: 10px;
+    border-radius: 99px;
+    overflow: hidden;
+    margin-bottom: 24px;
+    gap: 2px;
+  }
+
+  .progress-seg {
+    height: 100%;
+    border-radius: 99px;
+    transition: flex 1s ease;
+  }
+
+  .langs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 20px;
+  }
+
+  .lang-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    animation: fadeUp 0.5s ease both;
+  }
+
+  .lang-item:nth-child(1) { animation-delay: 0.05s; }
+  .lang-item:nth-child(2) { animation-delay: 0.1s; }
+  .lang-item:nth-child(3) { animation-delay: 0.15s; }
+  .lang-item:nth-child(4) { animation-delay: 0.2s; }
+  .lang-item:nth-child(5) { animation-delay: 0.25s; }
+  .lang-item:nth-child(6) { animation-delay: 0.3s; }
+  .lang-item:nth-child(7) { animation-delay: 0.35s; }
+  .lang-item:nth-child(8) { animation-delay: 0.4s; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .lang-name {
+    font-size: 12px;
+    color: rgba(255,255,255,0.85);
+    font-weight: 600;
+    flex: 1;
+  }
+
+  .lang-pct {
+    font-size: 11px;
+    color: rgba(255,255,255,0.4);
+    text-align: right;
+  }
+
+  .divider {
+    height: 1px;
+    background: rgba(255,255,255,0.06);
+    margin: 20px 0 16px;
+  }
+
+  .footer {
+    font-size: 10px;
+    color: rgba(255,255,255,0.2);
+    letter-spacing: 0.04em;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="header">
+    <span class="header-icon">🧠</span>
+    <span class="title">Top Languages</span>
+    <span class="username">@joshxfi</span>
+  </div>
+
+  <div class="progress-track" id="track"></div>
+
+  <div class="langs" id="langs"></div>
+
+  <div class="divider"></div>
+  <div class="footer">github-readme-stats · compact layout</div>
+</div>
+
+<script>
+  const langs = [
+    { name: 'React.js',     pct: 28, color: '#61DAFB' },
+    { name: 'Node.js',      pct: 18, color: '#6CC24A' },
+    { name: 'MongoDB',      pct: 14, color: '#47A248' },
+    { name: 'Express',      pct: 12, color: '#868686' },
+    { name: 'TailwindCSS',  pct: 11, color: '#38BDF8' },
+    { name: 'CSS',          pct: 8,  color: '#2965F1' },
+    { name: 'HTML',         pct: 6,  color: '#E44D26' },
+    { name: 'JavaScript',   pct: 3,  color: '#F7DF1E' },
+  ];
+
+  const track = document.getElementById('track');
+  const langsEl = document.getElementById('langs');
+
+  langs.forEach(l => {
+    const seg = document.createElement('div');
+    seg.className = 'progress-seg';
+    seg.style.flex = l.pct;
+    seg.style.background = l.color;
+    seg.title = `${l.name}: ${l.pct}%`;
+    track.appendChild(seg);
+
+    const item = document.createElement('div');
+    item.className = 'lang-item';
+    item.innerHTML = `
+      <div class="dot" style="background:${l.color}"></div>
+      <span class="lang-name">${l.name}</span>
+      <span class="lang-pct">${l.pct}%</span>
+    `;
+    langsEl.appendChild(item);
+  });
+</script>
+
+</body>
+</html>
 
 
 
