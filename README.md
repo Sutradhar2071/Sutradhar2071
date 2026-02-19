@@ -55,7 +55,7 @@
 
 ### 🧠 Top Languages I Use
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=typescript,php,lua" />
 
 
 
