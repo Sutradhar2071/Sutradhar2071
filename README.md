@@ -55,7 +55,7 @@
 
 ### 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&layout=compact&theme=react)
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutradhar2071&layout=compact&theme=vue-dark&hide=php,python,ruby,java" />
 
 
 
